@@ -2,7 +2,7 @@
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me discord
+- 📫 How to reach me: discord
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Funfuckt
 
