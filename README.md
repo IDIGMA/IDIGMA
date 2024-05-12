@@ -1,11 +1,7 @@
 <p align="center">
   <img src="assets/190e6c2141dcc613e289937484eb21fa.gif" height=180><br>
-  
-  <samp>
-  <br>
-  </samp>
-  <br>
 </p>
+
 - 👋 Hi, I’m @IDIGMA
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
