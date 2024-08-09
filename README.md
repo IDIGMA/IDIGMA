@@ -3,13 +3,15 @@
 </p>
 
 - 👋 Hi, I’m @IDIGMA
-- 👀 I’m interested in nothing
+- 👀 I’m interested in something
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nobody
-- 📫 How to reach me: discord
+- 📫 How to reach me: discord (for what?)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Funfuckt
-
+- 📃 Anecdote: -This is the Elusive Joe!
+               -Why is he elusive?
+               -Because no one fucking needs him
 
 
 
