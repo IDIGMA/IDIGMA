@@ -9,9 +9,10 @@
 - 📫 How to reach me: discord (for what?)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Funfuckt
-- 📃 Anecdote: -This is the Elusive Joe!
-               -Why is he elusive?
-               -Because no one fucking needs him
+- 📃 Anecdote:
+-  This is the Elusive Joe!
+-  Why is he elusive?
+-  Because no one fucking needs him.
 
 
 
