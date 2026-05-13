@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on nobody
 - 📫 How to reach me: discord (for what?)
-- 😄 Pronouns: he/him
+- 😄 Pronouns: eb/lan
 - ⚡ Fun fact: Funfuckt
 - 📃 Anecdote:
 -  This is the Elusive Joe!
